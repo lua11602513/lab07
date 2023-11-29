@@ -1,0 +1,2 @@
+ALTER TABLE Employee
+ADD Sex NCHAR(1)
